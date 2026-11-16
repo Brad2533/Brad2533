@@ -1,6 +1,6 @@
 ﻿# Brad Deaner
 
-Software developer (C# / .NET backend) with a B.S. in Computer Science from Michigan State University and a cybersecurity focus. Based in Michigan.
+Software developer (C# / .NET backend) with a B.S. in Computer Science from Michigan State University and a cybersecurity interest. Based in Michigan.
 
 ## Projects
 
